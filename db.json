@@ -1,0 +1,16 @@
+{
+    "drinks": [
+        {
+            "id": 1,
+            "name": "Chai Latte"
+        },
+        {
+            "id": 2,
+            "name": "Hot Chocolate WITH THE MARSHMALLOWS"
+        },
+        {
+            "id": 3,
+            "name": "Spicy Margarita"
+        }
+    ]
+}
